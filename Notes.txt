@@ -1,0 +1,12 @@
+C:\Steve\code\Python\projects\Django - L\mysite>python manage.py  runserver #Runs the Django project
+C:\Steve\code\Python\projects\Django - L\mysite>python manage.py startapp main #Creates an app called main
+
+VIEWS.PY
+Stores different views for the app. 
+HTML code goes here
+
+URLS.PY
+Its the navigation channel. Here, you specify where you want to go
+
+C:\Steve\code\Python\projects\Django - L\mysite>python manage.py migrate #done after adding installed apps
+in the settings.py
